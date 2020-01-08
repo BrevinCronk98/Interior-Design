@@ -4,14 +4,21 @@ body {
 
 .before img{
     float: left;
+    background-color: lightblue;
     width: 500px;
     height: 350px;
+    border: 10px solid pink;
+    padding: 15px;
+
 }
 .go-left {
     float: left;
 }
 
 .after img{
+    border: 10px solid pink;
+    padding: 15px;
+    background-color: lightblue;
     float: right;
     width: 500px;
     height: 350px;
@@ -21,6 +28,9 @@ body {
 }
 
 .during img {
+    background-color: lightblue;
+    border: 10px solid pink;
+    padding: 15px;
     width: 500px;
     height: 350px;
 }

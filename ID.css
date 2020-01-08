@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.before img{
+    float: left;
+    width: 500px;
+    height: 350px;
+}
+.go-left {
+    float: left;
+}
+
+.after img{
+    float: right;
+    width: 500px;
+    height: 350px;
+}
+.go-right {
+    float: right;
+}
+
+.during img {
+    width: 500px;
+    height: 350px;
+}
